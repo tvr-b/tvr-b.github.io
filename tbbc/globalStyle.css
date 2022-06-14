@@ -24,15 +24,15 @@
 }
 
 * {
-    font-family: "Helvetica", sans-serif;
+    font-family: "ReithSans", sans-serif;
 }
 
 .container {
-    max-width: 1250px;
+    max-width: 1275px;
 }
 
 .bbc-header div.header-element {
-    padding: .462em 12px .308em;
+    padding: 1.2em 1px 1.2em;
 }
 
 .bbc-header div.header-element:first-child {
@@ -44,17 +44,17 @@
 }
 
 .bbc-header .icon-filled {
-    font-size: larger;
+    font-size: 18px;
 }
 
 .bbc-header div.header-separator {
-    height: 38px;
+    height: 24px;
     width: 1px;
     background-color: #00000038;
 }
 
 .bbc-header div.header-text {
-    padding-top: 3px;
+    padding-top: 6px;
 }
 
 .bbc-header input {
@@ -63,13 +63,14 @@
 }
 
 .bbc-header .header-input {
-    background-color: #e4e4e4;
-    margin-top: 2px;
+    background-color: #f5f5f5;
+    margin-top: -3px;
+    margin-bottom: -19px;
 }
 
 .bbc-header * {
-    font-family: Helvetica, sans-serif;
-    font-weight: 700;
+    font-family: ReithSans, sans-serif;
+    font-weight: bolder;
     font-size: 14px;
 }
 
@@ -78,7 +79,7 @@
 }
 
 .news-header {
-    background-color: #bb1919;
+    background-color: #b80000;
     overflow: hidden;
 }
 
@@ -96,9 +97,9 @@
 }
 
 .news-header div.header-separator {
-    height: 38px;
+    height: 18px;
     width: 1px;
-    background-color: #00000038;
+    background-color: #ffffff38;
 }
 
 footer {
@@ -112,15 +113,17 @@ footer * {
 
 footer hr, footer .separator {
     color: #acacac;
-    background-color: #acacac;
+    background-color: #717171;
 }
 
 footer .separator {
     width: 1px;
+    height: 66px;
 }
 
 .footer-bottom .footer-element {
     padding: 8px;
+    padding-bottom: 20px;
 }
 
 .footer-bottom .footer-element:first-child {
@@ -132,8 +135,8 @@ footer .separator {
 }
 
 .footer-element-container div {
-    padding-top: 8px;
-    padding-bottom: 8px;
+    padding-top: 5px;
+    padding-bottom: 4px;
 }
 
 .icon {
