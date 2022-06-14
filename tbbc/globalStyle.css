@@ -62,14 +62,71 @@
 }
 
 @font-face {
-    font-family: "ReithSans";
-    src: url(typography/reith/sans/extra_bold_italic.woff2);
+    font-family: "ReithSerif";
+    src: url(typography/reith/serif/light.woff2);
+    font-weight: 300;
+    font-style: serif;
+}
+
+@font-face {
+    font-family: "ReithSerif";
+    src: url(typography/reith/serif/light_italic.woff2);
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "ReithSerif";
+    src: url(typography/reith/serif/regular.woff2);
+    font-weight: 400;
+    font-style: serif;
+}
+
+@font-face {
+    font-family: "ReithSerif";
+    src: url(typography/reith/serif/italic.woff2);
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "ReithSerif";
+    src: url(typography/reith/serif/medium.woff2);
+    font-weight: 500;
+    font-style: serif;
+}
+
+@font-face {
+    font-family: "ReithSerif";
+    src: url(typography/reith/serif/medium_italic.woff2);
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "ReithSerif";
+    src: url(typography/reith/serif/bold.woff2);
+    font-weight: 700;
+    font-style: serif;
+}
+
+@font-face {
+    font-family: "ReithSerif";
+    src: url(typography/reith/serif/medium.woff2);
     font-weight: 700;
     font-style: italic;
 }
 
+@font-face {
+    font-family: "ReithSerif";
+    src: url(typography/reith/serif/extra_bold.woff2);
+    font-weight: 800;
+    font-style: serif;
+}
+
 * {
     font-family: "ReithSans", sans-serif;
+    font-family: "ReithSerif", serif;
 }
 
 .container {
