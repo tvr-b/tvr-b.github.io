@@ -9,7 +9,7 @@ main img {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "ReithSerif", serif;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 .credit * {
@@ -34,7 +34,7 @@ main a:hover {
 }
 
 .top-stories h3 {
-    font-weight: bold;
+    font-weight: 700;
     font-size: 20px;
 }
 
