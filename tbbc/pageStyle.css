@@ -48,6 +48,7 @@ ol ::marker {
 }
 
 .top-stories a {
-    font-weight: normal;
+    font-weight: 700;
     text-decoration: none;
+    font-family: 'ReithSerif';
 }
