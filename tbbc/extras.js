@@ -59,10 +59,7 @@ function generateNavbar() {
             <div class="header-text">Culture
   </div>
         </div>
-        <div></div><div class="header-element" style="justify-content: space-between;">
-            <div class="header-input d-none d-sm-flex" style="padding-top: 0.3em;padding-bottom: 0.3em;">
-                <div class="icon-filled" style="padding-left: 0.5em;"> </div><input type="text" style="align-items: center;fill: black;" placeholder=" Search the BBC">
-                
+        <div></div>   
             </div>
             <div class="d-flex d-sm-none">
                 <div class="icon-filled"></div>
