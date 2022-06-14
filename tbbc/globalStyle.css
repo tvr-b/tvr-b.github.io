@@ -126,7 +126,7 @@
 
 * {
     font-family: "ReithSans", sans-serif;
-    font-family: "ReithSerif", serif;
+    /* font-family: "ReithSerif", serif; */
 }
 
 .container {
@@ -203,9 +203,7 @@
     width: 1px;
     background-color: #ffffff38;
 }
-.d-flex flex-column container {
-     font-family: "ReithSans", sans-serif;
-     font-weight: 400
+
 footer {
     background-color: #4c4c4c;
 }
