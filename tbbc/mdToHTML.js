@@ -30,7 +30,7 @@ async function mdToHTML() {
     topHeader.appendChild(document.createTextNode("Top stories"))
     container.appendChild(topHeader);
 
-    const mainPageContent = "https://mediacoalition.github.io/tbbc/content.json";
+    const mainPageContent = "https://dlphesigns.github.io/news/tbbc/content.json";
     let mainPageData = undefined;
     await $.getJSON(mainPageContent, (json) => mainPageData = json);
 
