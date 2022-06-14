@@ -1,26 +1,71 @@
 @font-face {
-    font-family: "IconsFilled";
-    src: url(font/FluentSystemIcons-Filled.ttf);
-}
-
-@font-face {
-    font-family: "Icons";
-    src: url(font/FluentSystemIcons-Regular.ttf)
+    font-family: "ReithSans";
+    src: url(typography/reith/sans/light.woff2);
+    font-weight: 300;
+    font-style: sans-serif;
 }
 
 @font-face {
     font-family: "ReithSans";
-    src: url(font/BBCReithSans_Rg.ttf);
+    src: url(typography/reith/sans/light_italic.woff2);
+    font-weight: 300;
+    font-style: italic;
 }
 
 @font-face {
-    font-family: "ReithSansLight";
-    src: url(font/BBCReithSans_Lt.ttf);
+    font-family: "ReithSans";
+    src: url(typography/reith/sans/regular.woff2);
+    font-weight: 400;
+    font-style: sans-serif;
 }
 
 @font-face {
-    font-family: "ReithSerif";
-    src: url(font/BBCReithSerif_Rg.ttf);
+    font-family: "ReithSans";
+    src: url(typography/reith/sans/italic.woff2);
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "ReithSans";
+    src: url(typography/reith/sans/medium.woff2);
+    font-weight: 500;
+    font-style: sans-serif;
+}
+
+@font-face {
+    font-family: "ReithSans";
+    src: url(typography/reith/sans/medium_italic.woff2);
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "ReithSans";
+    src: url(typography/reith/sans/bold.woff2);
+    font-weight: 700;
+    font-style: sans-serif;
+}
+
+@font-face {
+    font-family: "ReithSans";
+    src: url(typography/reith/sans/medium.woff2);
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "ReithSans";
+    src: url(typography/reith/sans/extra_bold.woff2);
+    font-weight: 800;
+    font-style: sans-serif;
+}
+
+@font-face {
+    font-family: "ReithSans";
+    src: url(typography/reith/sans/extra_bold_italic.woff2);
+    font-weight: 700;
+    font-style: italic;
 }
 
 * {
@@ -69,8 +114,8 @@
 }
 
 .bbc-header * {
-    font-family: ReithSans, sans-serif;
-    font-weight: bolder;
+    font-family: "ReithSans", sans-serif;
+    font-weight: 700;
     font-size: 14px;
 }
 
