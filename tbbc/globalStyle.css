@@ -1,4 +1,14 @@
 @font-face {
+    font-family: "Icons";
+    src: url(typography/iconography/FluentSystemIcons-Regular.ttf)
+}
+
+@font-face {
+    font-family: "IconsFilled";
+    src: url(typography/iconography/FluentSystemIcons-Filled.ttf)
+}
+
+@font-face {
     font-family: "ReithSans";
     src: url(typography/reith/sans/light.woff2);
     font-weight: 300;
