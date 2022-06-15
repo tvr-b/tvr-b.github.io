@@ -10,7 +10,7 @@ function generateNavbar() {
 	navbar.innerHTML = `
 		<div class="container bbc-header d-inline-flex" style="justify-content: space-between;">
         <div class="header-element">
-            <img src="https://dlphesigns.github.io/news/tbbc/img/bbc-c.svg" width="112px">
+            <img src="https://dlphesigns.github.io/news/tbbc/assets/images/svg/bbc-b.svg" width="112px">
         </div>
         
         
