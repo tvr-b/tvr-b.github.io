@@ -19,7 +19,7 @@ function generateNavbar() {
         
         <div class="header-element d-block d-sm-none d-xl-block">
             <div class="header-text">
-                <a href="https://dlphesigns.github.io/news">Home</a>
+                <a href="https://dlphesigns.github.io/news/tbbc">Home</a>
             </div>
         </div>
         <div></div>
@@ -73,14 +73,14 @@ function generateNavbar() {
             <div class="options">
                 <hr class="d-block d-md-none">
                 <div class="d-flex d-md-none">
-                    <div style="width: 50%; text-align: center; padding: 8px; font-family: 'Helvetica', sans-serif; color: #ffffff; font-weight: 700;">
+                    <div style="width: 50%; text-align: center; padding: 8px; font-family: 'ReithSans', sans-serif; color: #ffffff; font-weight: 700;">
                         Latest Stories
                     </div>
-                    <div style="width: 50%; text-align: center; padding: 8px; font-family: 'Helvetica', sans-serif; color: #ffffff; font-weight: 700; background-color: #990000;">
+                    <div style="width: 50%; text-align: center; padding: 8px; font-family: 'ReithSans', sans-serif; color: #ffffff; font-weight: 700; background-color: #990000;">
                         Most Read
                     </div>
                 </div>
-                <div class="d-none d-md-flex header-options" style="font-family: 'Helvetica', sans-serif; color: #ffffff;">
+                <div class="d-none d-md-flex header-options" style="font-family: 'ReithSans', sans-serif; color: #ffffff;">
                     
                 <div style="padding: 8px 13px 8px 0px;/*! font-weight: bold; */">Home</div><div class="header-separator" style="align-self: center;"></div><div style="padding: 8px 13px 8px 13px;/*! font-weight: bold; */">Linuxit</div><div class="header-separator" style="align-self: center;"></div><div style="padding: 8px 13px 8px 13px;/*! font-weight: bold; */">Electron Virus</div><div class="header-separator" style="align-self: center;"></div><div style="padding: 8px 13px 8px 13px;/*! font-weight: bold; */">Web Alliance</div><div class="header-separator" style="align-self: center;font-weight: bold;"></div><div class="d-none d-lg-block" style="padding: 8px 13px 8px 13px;/*! font-weight: bold; */">United Native Alliance</div><div class="header-separator d-none d-lg-block" style="align-self: center;font-weight: bold;"></div><div class="d-none d-lg-block" style="padding: 8px 13px 8px 13px;/*! font-weight: bold; */">Dev Country Conflicts</div><div class="header-separator d-none d-lg-block" style="align-self: center;font-weight: bold;"></div><div class="d-none d-lg-block" style="padding: 8px 13px 8px 13px;/*! font-weight: bold; */">Stories</div><div class="header-separator d-none d-lg-block" style="align-self: center;"></div><div class="d-none d-lg-block" style="padding: 8px 13px 8px 13px;/*! font-weight: bold; */">World News TV</div></div>
             </div>
