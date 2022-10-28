@@ -1,4 +1,3 @@
-# The home of the TBBC.
-This site is a modification of https://mediacoalition.github.io/.
+# TVR Buzău
 
-Content is generated using the [writer](https://dlphesigns.github.io/news/tbbc/writer) and JSON files.
+Știe ce-ți place. Scrieți articole folosind scriitorul de la pagina https://tvr-b.github.io/știri/writer
